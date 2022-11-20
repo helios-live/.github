@@ -1,4 +1,4 @@
-# .github
+# Idea to Code
 
 ### Find us on other platforms:
 
